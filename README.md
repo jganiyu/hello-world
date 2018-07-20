@@ -1,5 +1,4 @@
 # hello-world
-The beginning of a new path.
 
 Hi, my name is Jon.
 
